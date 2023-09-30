@@ -26,7 +26,7 @@ let num5 = 0.7;
 let num6 = 0.2;
 
 num5 += num6
-console.log(num5);
+console.log(num5.toFixed(2));
 console.log(Number.isInteger(num5));
 console.log(Number(num5).toFixed(2));
 console.log(parseFloat(num5));
