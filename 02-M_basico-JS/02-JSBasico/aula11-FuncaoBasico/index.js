@@ -1,0 +1,4 @@
+//Funções Basico
+function saudacao() {
+    
+}
