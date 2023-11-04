@@ -8,7 +8,7 @@ Este curso inclui JavaScript e TypeScript, abrangendo ambas as linguagens.
 
 ### Fundamentos
 
-- JavaScript puro (Vanilla JS) no Node.js e no navegador.
+- JavaScript puro (Vanilla JS) CoM Node.js e no navegador.
 
 ### Node.js, Frameworks e Bibliotecas
 
