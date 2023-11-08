@@ -22,7 +22,7 @@ Este curso inclui JavaScript e TypeScript, abrangendo ambas as linguagens.
 
 ### Projeto #1
 
-- Criar um CRUD na base de dados mongo com sistema de login real usando sessions e JWT.
+- Criar um CRUD na base de dados mongoDB com sistema de login real usando sessions e JWT.
 
 ### Deploy (Linux)
 
